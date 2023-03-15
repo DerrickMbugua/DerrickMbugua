@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derrickmbugua&label=Profile%20views&color=0e75b6&style=flat" alt="derrickmbugua" /> </p>
 
-- 🔭 I’m currently working on **USSD application**
+- 🔭 I’m currently working on **USSD applications, WhatsApp Chatbots integrated with ChatGPT**
 
 - 🌱 I’m currently learning **Flask, Next JS and Spring Boot**
 
